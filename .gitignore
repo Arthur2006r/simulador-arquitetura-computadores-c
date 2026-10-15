@@ -1,0 +1,6 @@
+*.o
+*.out
+*.exe
+simulador
+log.txt
+.vscode/
