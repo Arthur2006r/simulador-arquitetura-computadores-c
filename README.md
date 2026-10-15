@@ -1,16 +1,12 @@
 # Simulador Arquitetura Computadores em C
 
-![Linguagem C](https://img.shields.io/badge/Language-C-blue.svg)
-![Curso](https://img.shields.io/badge/UFOP-BCC136-red.svg)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen.svg)
-
 Simulador completo de arquitetura de computadores desenvolvido em C como Trabalho Prático da disciplina de Organização de Computadores (BCC136) na Universidade Federal de Ouro Preto (UFOP).
 
 O objetivo do projeto é recriar em software os componentes essenciais de um computador e simular o ciclo completo de Busca (*Fetch*), Decodificação (*Decode*) e Execução (*Execute*) de instruções em baixo nível.
 
 ---
 
-## 📌 Funcionalidades e Componentes
+## Funcionalidades e Componentes
 
 - **Módulo de CPU e Registradores:** Controle do ciclo de instrução e gerenciamento do estado dos registradores internos (como *Program Counter* / PC e Registrador de Instrução / IR).
 - **Memória RAM Simulada:** Leitura e escrita de dados e instruções com endereçamento direto em posições de memória.
@@ -19,7 +15,7 @@ O objetivo do projeto é recriar em software os componentes essenciais de um com
 
 ---
 
-## 💻 Operações Mapeadas no Simulador
+## Operações Mapeadas no Simulador
 
 O sistema possui um menu interativo que permite testar diversos níveis de complexidade de cálculo:
 
@@ -40,7 +36,7 @@ O sistema possui um menu interativo que permite testar diversos níveis de compl
 
 ---
 
-## 🛠️ Como Compilar e Executar
+## Como Compilar e Executar
 
 ### Pré-requisitos
 - Compilador C instalado (`gcc` ou `clang`).
